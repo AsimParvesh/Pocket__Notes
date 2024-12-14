@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PC_NOTES/static/css/main.15d735f2.css",
+    "main.js": "/PC_NOTES/static/js/main.43d19e53.js",
+    "static/media/welcome.png": "/PC_NOTES/static/media/welcome.d8c7b9bc0a963cbce718.png",
+    "index.html": "/PC_NOTES/index.html",
+    "main.15d735f2.css.map": "/PC_NOTES/static/css/main.15d735f2.css.map",
+    "main.43d19e53.js.map": "/PC_NOTES/static/js/main.43d19e53.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15d735f2.css",
+    "static/js/main.43d19e53.js"
+  ]
+}
